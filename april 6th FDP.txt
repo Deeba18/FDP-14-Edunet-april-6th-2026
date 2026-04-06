@@ -1,0 +1,8 @@
+VS code
+Cursor
+copilot integrated with git
+Deployment
+version control systems(VCS) time machine
+commits , branches
+git-local
+github-cloud 
